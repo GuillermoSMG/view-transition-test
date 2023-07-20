@@ -1,0 +1,4 @@
+/404      /.netlify/functions/entry    200
+/         /.netlify/functions/entry    200
+/:book    /.netlify/functions/entry    200
+/*        /.netlify/functions/entry    404
